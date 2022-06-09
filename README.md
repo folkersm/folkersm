@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning git
 - 💞️ I would like to join a collaborative project
 - 📫 How to reach me: folkersm@gmail.com
-
-:smile:
+- :smile:

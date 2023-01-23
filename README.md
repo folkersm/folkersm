@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Max Folkers
-- 👀 I'm interested in math and computers
-- 🌱 I’m currently learning combinatorics
-- 💞️ I would like to join a collaborative project
-- 📫 Feel free to email me at folkersm@gmail.com
-- :smile:
+Invite me to work on your video game.

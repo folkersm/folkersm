@@ -1,2 +1,2 @@
-<h6>Do Not Enter!</h6>
+<h6>Subscribe Now While Supplies Last!</h6>
 
